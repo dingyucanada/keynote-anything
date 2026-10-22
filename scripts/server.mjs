@@ -24,6 +24,7 @@ export function createServer({
     "index.html",
     "favicon.svg",
     "README.md",
+    "CONTRIBUTING.md",
     "LICENSE",
   ]);
   return http.createServer(async (req, res) => {
@@ -157,7 +158,7 @@ export function createServer({
         relative.split("/").some((s) => s === ".." || s.startsWith(".")) ||
         !(
           allowed.has(relative) ||
-          ["src/", "assets/", "docs/"].some((prefix) =>
+          ["src/", "assets/", "docs/", "examples/"].some((prefix) =>
             relative.startsWith(prefix),
           )
         )

@@ -4,9 +4,9 @@ Release candidate 0.1.0 · 2026-10-22
 
 ## Automated
 
-`npm test`: **28 passing tests**, including 108 local generation combinations (six subjects × two languages × three tones × three themes).
+`npm test`: **29 passing tests**, including 108 local generation combinations (six subjects × two languages × three tones × three themes).
 
-Covered: complete seven-scene stories; user-fact provenance; brief bounds; distinct openings; JSON round-trip; malformed/oversized/unsafe projects; duplicate scene IDs; duration bounds; HTML escaping; safe script serialization; embedded export art; export script syntax; speaker scripts; AI response structure and required items; static path restrictions; server-only credentials; request/response bounds; same-origin checks; provider failure/timeout handling; concurrent request limit.
+Covered: complete seven-scene stories; user-fact provenance; brief bounds; distinct openings; JSON round-trip; malformed/oversized/unsafe projects; duplicate scene IDs; duration bounds; HTML escaping; safe script serialization; embedded export art; export script syntax; speaker scripts; AI response structure and required items; static path restrictions; server-only credentials; request/response bounds; same-origin checks; provider failure/timeout handling; concurrent request limit; static build contents and disabled-AI status.
 
 `npm run build`: static site generated successfully. CI runs these on Node 20, 22 and 24.
 
