@@ -1,0 +1,99 @@
+{
+  "version": "0.1.0",
+  "title": "CLOUD SHIELD",
+  "brief": {
+    "topic": "An umbrella",
+    "name": "",
+    "description": "",
+    "facts": "",
+    "audience": "",
+    "language": "en",
+    "tone": "playful",
+    "theme": "noir",
+    "variant": 0
+  },
+  "theme": "noir",
+  "art": "abstract",
+  "image": "",
+  "engine": "local",
+  "slides": [
+    {
+      "id": "scene-1",
+      "type": "hook",
+      "kicker": "A NEW STORY STARTS HERE",
+      "title": "Make the rain\na background task.",
+      "body": "A PERSONAL WEATHER BOUNDARY",
+      "items": [],
+      "notes": "Pause for two beats. Let the audience read first.\n\nMake the rain a background task. A PERSONAL WEATHER BOUNDARY",
+      "duration": 8
+    },
+    {
+      "id": "scene-2",
+      "type": "problem",
+      "kicker": "THE EVERYDAY FRICTION",
+      "title": "Rain is forecast.\nLife has no pause button.",
+      "body": "Meetings, plans and the journey home do not stop for the weather.",
+      "items": [],
+      "notes": "Start with a situation your audience recognizes.\n\nRain is forecast. Life has no pause button. Meetings, plans and the journey home do not stop for the weather.",
+      "duration": 8
+    },
+    {
+      "id": "scene-3",
+      "type": "reveal",
+      "kicker": "INTRODUCING",
+      "title": "CLOUD SHIELD",
+      "body": "Take your own clear-sky boundary.",
+      "items": [],
+      "notes": "Say the name. Leave one beat for the reveal.\n\nCLOUD SHIELD Take your own clear-sky boundary.",
+      "duration": 8
+    },
+    {
+      "id": "scene-4",
+      "type": "architecture",
+      "kicker": "CONCEPT ARCHITECTURE",
+      "title": "Open.\nAnd carry on.",
+      "body": "Three stages. One complete experience.",
+      "items": [
+        "Weather in",
+        "Shield unfolds",
+        "You arrive"
+      ],
+      "notes": "Walk left to right. This is a conceptual flow, not an engineering specification.\n\nOpen. And carry on. Three stages. One complete experience.",
+      "duration": 11
+    },
+    {
+      "id": "scene-5",
+      "type": "benefits",
+      "kicker": "THE EXPERIENCE WE AIM FOR",
+      "title": "Not just seen.\nFelt.",
+      "body": "Creative intentions, not performance promises.",
+      "items": [
+        "Step out with confidence",
+        "Keep things simple",
+        "Be ready for change"
+      ],
+      "notes": "Connect each intention to a use case; unverified benefits are design goals.\n\nNot just seen. Felt. Creative intentions, not performance promises.",
+      "duration": 11
+    },
+    {
+      "id": "scene-6",
+      "type": "twist",
+      "kicker": "ONE MORE THING",
+      "title": "A real cloud service.\nNo internet required.",
+      "body": "A concept launch. Bring a sense of humor.",
+      "items": [],
+      "notes": "Slow down. Leave a pause after the final line.\n\nA real cloud service. No internet required. A concept launch. Bring a sense of humor.",
+      "duration": 8
+    },
+    {
+      "id": "scene-7",
+      "type": "closing",
+      "kicker": "CLOUD SHIELD",
+      "title": "It is raining.\nYou keep going.",
+      "body": "Its main-character moment starts now.",
+      "items": [],
+      "notes": "Return to the opening situation. End on one clear line.\n\nIt is raining. You keep going. Its main-character moment starts now.",
+      "duration": 8
+    }
+  ]
+}

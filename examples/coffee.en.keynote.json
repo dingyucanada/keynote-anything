@@ -1,0 +1,99 @@
+{
+  "version": "0.1.0",
+  "title": "BREW CORE",
+  "brief": {
+    "topic": "A coffee machine",
+    "name": "",
+    "description": "",
+    "facts": "",
+    "audience": "",
+    "language": "en",
+    "tone": "playful",
+    "theme": "noir",
+    "variant": 0
+  },
+  "theme": "noir",
+  "art": "builtin:coffee",
+  "image": "",
+  "engine": "local",
+  "slides": [
+    {
+      "id": "scene-1",
+      "type": "hook",
+      "kicker": "A NEW STORY STARTS HERE",
+      "title": "Every morning.\nRecompiled.",
+      "body": "THE MORNING BOOT PROTOCOL",
+      "items": [],
+      "notes": "Pause for two beats. Let the audience read first.\n\nEvery morning. Recompiled. THE MORNING BOOT PROTOCOL",
+      "duration": 8
+    },
+    {
+      "id": "scene-2",
+      "type": "problem",
+      "kicker": "THE EVERYDAY FRICTION",
+      "title": "The slowest startup\nis you.",
+      "body": "The alarm has fired. The calendar is full. Your first good idea is still waiting for its first coffee.",
+      "items": [],
+      "notes": "Start with a situation your audience recognizes.\n\nThe slowest startup is you. The alarm has fired. The calendar is full. Your first good idea is still waiting for its first coffee.",
+      "duration": 8
+    },
+    {
+      "id": "scene-3",
+      "type": "reveal",
+      "kicker": "INTRODUCING",
+      "title": "BREW CORE",
+      "body": "Meet your morning core.",
+      "items": [],
+      "notes": "Say the name. Leave one beat for the reveal.\n\nBREW CORE Meet your morning core.",
+      "duration": 8
+    },
+    {
+      "id": "scene-4",
+      "type": "architecture",
+      "kicker": "CONCEPT ARCHITECTURE",
+      "title": "From one bean\nto the next big idea.",
+      "body": "Three stages. One complete experience.",
+      "items": [
+        "Beans in",
+        "Flavor engine",
+        "Ideas out"
+      ],
+      "notes": "Walk left to right. This is a conceptual flow, not an engineering specification.\n\nFrom one bean to the next big idea. Three stages. One complete experience.",
+      "duration": 11
+    },
+    {
+      "id": "scene-5",
+      "type": "benefits",
+      "kicker": "THE EXPERIENCE WE AIM FOR",
+      "title": "Not just seen.\nFelt.",
+      "body": "Creative intentions, not performance promises.",
+      "items": [
+        "Make mornings a ritual",
+        "Put flavor first",
+        "Bring focus to the desk"
+      ],
+      "notes": "Connect each intention to a use case; unverified benefits are design goals.\n\nNot just seen. Felt. Creative intentions, not performance promises.",
+      "duration": 11
+    },
+    {
+      "id": "scene-6",
+      "type": "twist",
+      "kicker": "ONE MORE THING",
+      "title": "One more thing.\nIt makes coffee.",
+      "body": "A concept launch. Bring a sense of humor.",
+      "items": [],
+      "notes": "Slow down. Leave a pause after the final line.\n\nOne more thing. It makes coffee. A concept launch. Bring a sense of humor.",
+      "duration": 8
+    },
+    {
+      "id": "scene-7",
+      "type": "closing",
+      "kicker": "BREW CORE",
+      "title": "Tomorrow starts\nhere.",
+      "body": "Its main-character moment starts now.",
+      "items": [],
+      "notes": "Return to the opening situation. End on one clear line.\n\nTomorrow starts here. Its main-character moment starts now.",
+      "duration": 8
+    }
+  ]
+}

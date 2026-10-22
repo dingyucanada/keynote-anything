@@ -1,0 +1,99 @@
+{
+  "version": "0.1.0",
+  "title": "BREW CORE",
+  "brief": {
+    "topic": "咖啡机",
+    "name": "",
+    "description": "",
+    "facts": "",
+    "audience": "",
+    "language": "zh",
+    "tone": "playful",
+    "theme": "noir",
+    "variant": 0
+  },
+  "theme": "noir",
+  "art": "builtin:coffee",
+  "image": "",
+  "engine": "local",
+  "slides": [
+    {
+      "id": "scene-1",
+      "type": "hook",
+      "kicker": "一个新故事，即将开始",
+      "title": "重新定义，\n开机这件事。",
+      "body": "晨间启动协议",
+      "items": [],
+      "notes": "停顿两秒，让观众先读标题。\n\n重新定义， 开机这件事。 晨间启动协议",
+      "duration": 8
+    },
+    {
+      "id": "scene-2",
+      "type": "problem",
+      "kicker": "先说一个熟悉的问题",
+      "title": "每天最慢的启动，\n不是电脑。",
+      "body": "闹钟已经运行，日程已经排队，而你还在等待第一口。",
+      "items": [],
+      "notes": "从一个观众熟悉的日常场景切入。\n\n每天最慢的启动， 不是电脑。 闹钟已经运行，日程已经排队，而你还在等待第一口。",
+      "duration": 8
+    },
+    {
+      "id": "scene-3",
+      "type": "reveal",
+      "kicker": "正式介绍",
+      "title": "BREW CORE",
+      "body": "为你的早晨， 装上一颗核心。",
+      "items": [],
+      "notes": "先说产品名称，再留出一拍揭幕。\n\nBREW CORE 为你的早晨， 装上一颗核心。",
+      "duration": 8
+    },
+    {
+      "id": "scene-4",
+      "type": "architecture",
+      "kicker": "概念架构 · 非工程规格",
+      "title": "从一颗豆，\n到一个好主意。",
+      "body": "三个环节，一个完整体验。",
+      "items": [
+        "咖啡豆输入",
+        "风味计算",
+        "灵感输出"
+      ],
+      "notes": "按从左到右的顺序解释三个环节，不把概念图当作工程规格。\n\n从一颗豆， 到一个好主意。 三个环节，一个完整体验。",
+      "duration": 11
+    },
+    {
+      "id": "scene-5",
+      "type": "benefits",
+      "kicker": "我们希望实现的体验",
+      "title": "不止被看见。\n更要被感受到。",
+      "body": "以下是创意方向，不是性能承诺。",
+      "items": [
+        "把仪式还给早晨",
+        "让风味成为主角",
+        "把清醒带回桌面"
+      ],
+      "notes": "每一项都连接到具体使用情境；未验证的价值作为设计目标表达。\n\n不止被看见。 更要被感受到。 以下是创意方向，不是性能承诺。",
+      "duration": 11
+    },
+    {
+      "id": "scene-6",
+      "type": "twist",
+      "kicker": "ONE MORE THING",
+      "title": "还有一件事。\n它真的会煮咖啡。",
+      "body": "概念演绎，请带一点幽默观看。",
+      "items": [],
+      "notes": "放慢语速。最后一句说完后停顿。\n\n还有一件事。 它真的会煮咖啡。 概念演绎，请带一点幽默观看。",
+      "duration": 8
+    },
+    {
+      "id": "scene-7",
+      "type": "closing",
+      "kicker": "BREW CORE",
+      "title": "明天的你，\n已经准备好了。",
+      "body": "现在，轮到它成为主角。",
+      "items": [],
+      "notes": "收回到最初的场景，用一句话结束。\n\n明天的你， 已经准备好了。 现在，轮到它成为主角。",
+      "duration": 8
+    }
+  ]
+}

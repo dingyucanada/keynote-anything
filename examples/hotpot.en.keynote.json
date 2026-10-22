@@ -1,0 +1,99 @@
+{
+  "version": "0.1.0",
+  "title": "POT PROTOCOL",
+  "brief": {
+    "topic": "A hotpot restaurant",
+    "name": "",
+    "description": "",
+    "facts": "",
+    "audience": "",
+    "language": "en",
+    "tone": "playful",
+    "theme": "noir",
+    "variant": 0
+  },
+  "theme": "noir",
+  "art": "abstract",
+  "image": "",
+  "engine": "local",
+  "slides": [
+    {
+      "id": "scene-1",
+      "type": "hook",
+      "kicker": "A NEW STORY STARTS HERE",
+      "title": "The next connection\nis boiling.",
+      "body": "REAL-TIME DINNER INFRASTRUCTURE",
+      "items": [],
+      "notes": "Pause for two beats. Let the audience read first.\n\nThe next connection is boiling. REAL-TIME DINNER INFRASTRUCTURE",
+      "duration": 8
+    },
+    {
+      "id": "scene-2",
+      "type": "problem",
+      "kicker": "THE EVERYDAY FRICTION",
+      "title": "Hundreds of messages.\nWhen did you last meet?",
+      "body": "Our networks get faster. Getting everyone around one table somehow gets harder.",
+      "items": [],
+      "notes": "Start with a situation your audience recognizes.\n\nHundreds of messages. When did you last meet? Our networks get faster. Getting everyone around one table somehow gets harder.",
+      "duration": 8
+    },
+    {
+      "id": "scene-3",
+      "type": "reveal",
+      "kicker": "INTRODUCING",
+      "title": "POT PROTOCOL",
+      "body": "A genuinely shared heat source.",
+      "items": [],
+      "notes": "Say the name. Leave one beat for the reveal.\n\nPOT PROTOCOL A genuinely shared heat source.",
+      "duration": 8
+    },
+    {
+      "id": "scene-4",
+      "type": "architecture",
+      "kicker": "CONCEPT ARCHITECTURE",
+      "title": "Multiplayer.\nOne pot. Real time.",
+      "body": "Three stages. One complete experience.",
+      "items": [
+        "Friends connect",
+        "Broth collaborates",
+        "Joy ships"
+      ],
+      "notes": "Walk left to right. This is a conceptual flow, not an engineering specification.\n\nMultiplayer. One pot. Real time. Three stages. One complete experience.",
+      "duration": 11
+    },
+    {
+      "id": "scene-5",
+      "type": "benefits",
+      "kicker": "THE EXPERIENCE WE AIM FOR",
+      "title": "Not just seen.\nFelt.",
+      "body": "Creative intentions, not performance promises.",
+      "items": [
+        "Everyone participates",
+        "Every bite discovers",
+        "Every gathering matters"
+      ],
+      "notes": "Connect each intention to a use case; unverified benefits are design goals.\n\nNot just seen. Felt. Creative intentions, not performance promises.",
+      "duration": 11
+    },
+    {
+      "id": "scene-6",
+      "type": "twist",
+      "kicker": "ONE MORE THING",
+      "title": "Compatible with everyone.\nExcept the cilantro debate.",
+      "body": "A concept launch. Bring a sense of humor.",
+      "items": [],
+      "notes": "Slow down. Leave a pause after the final line.\n\nCompatible with everyone. Except the cilantro debate. A concept launch. Bring a sense of humor.",
+      "duration": 8
+    },
+    {
+      "id": "scene-7",
+      "type": "closing",
+      "kicker": "POT PROTOCOL",
+      "title": "A big world.\nOne good table.",
+      "body": "Its main-character moment starts now.",
+      "items": [],
+      "notes": "Return to the opening situation. End on one clear line.\n\nA big world. One good table. Its main-character moment starts now.",
+      "duration": 8
+    }
+  ]
+}

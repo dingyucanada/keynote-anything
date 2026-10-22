@@ -1,0 +1,99 @@
+{
+  "version": "0.1.0",
+  "title": "CONTEXT",
+  "brief": {
+    "topic": "A team knowledge base",
+    "name": "",
+    "description": "",
+    "facts": "",
+    "audience": "",
+    "language": "en",
+    "tone": "playful",
+    "theme": "noir",
+    "variant": 0
+  },
+  "theme": "noir",
+  "art": "abstract",
+  "image": "",
+  "engine": "local",
+  "slides": [
+    {
+      "id": "scene-1",
+      "type": "hook",
+      "kicker": "A NEW STORY STARTS HERE",
+      "title": "Answers at\nthe speed of your team.",
+      "body": "THE TEAM CONTEXT WORKSPACE",
+      "items": [],
+      "notes": "Pause for two beats. Let the audience read first.\n\nAnswers at the speed of your team. THE TEAM CONTEXT WORKSPACE",
+      "duration": 8
+    },
+    {
+      "id": "scene-2",
+      "type": "problem",
+      "kicker": "THE EVERYDAY FRICTION",
+      "title": "The answer exists.\nSomewhere.",
+      "body": "Documents, messages and meetings each hold a piece of the truth. Your team keeps starting from zero.",
+      "items": [],
+      "notes": "Start with a situation your audience recognizes.\n\nThe answer exists. Somewhere. Documents, messages and meetings each hold a piece of the truth. Your team keeps starting from zero.",
+      "duration": 8
+    },
+    {
+      "id": "scene-3",
+      "type": "reveal",
+      "kicker": "INTRODUCING",
+      "title": "CONTEXT",
+      "body": "Your team’s shared context.",
+      "items": [],
+      "notes": "Say the name. Leave one beat for the reveal.\n\nCONTEXT Your team’s shared context.",
+      "duration": 8
+    },
+    {
+      "id": "scene-4",
+      "type": "architecture",
+      "kicker": "CONCEPT ARCHITECTURE",
+      "title": "From information islands\nto shared understanding.",
+      "body": "Three stages. One complete experience.",
+      "items": [
+        "Knowledge in",
+        "Context organized",
+        "Answers delivered"
+      ],
+      "notes": "Walk left to right. This is a conceptual flow, not an engineering specification.\n\nFrom information islands to shared understanding. Three stages. One complete experience.",
+      "duration": 11
+    },
+    {
+      "id": "scene-5",
+      "type": "benefits",
+      "kicker": "THE EXPERIENCE WE AIM FOR",
+      "title": "Not just seen.\nFelt.",
+      "body": "Creative intentions, not performance promises.",
+      "items": [
+        "Make experience visible",
+        "Give teamwork context",
+        "Make handoffs continuous"
+      ],
+      "notes": "Connect each intention to a use case; unverified benefits are design goals.\n\nNot just seen. Felt. Creative intentions, not performance promises.",
+      "duration": 11
+    },
+    {
+      "id": "scene-6",
+      "type": "twist",
+      "kicker": "ONE MORE THING",
+      "title": "The best knowledge base\nreduces repeat questions.",
+      "body": "A concept launch. Bring a sense of humor.",
+      "items": [],
+      "notes": "Slow down. Leave a pause after the final line.\n\nThe best knowledge base reduces repeat questions. A concept launch. Bring a sense of humor.",
+      "duration": 8
+    },
+    {
+      "id": "scene-7",
+      "type": "closing",
+      "kicker": "CONTEXT",
+      "title": "Your next collaboration\nstarts with understanding.",
+      "body": "Its main-character moment starts now.",
+      "items": [],
+      "notes": "Return to the opening situation. End on one clear line.\n\nYour next collaboration starts with understanding. Its main-character moment starts now.",
+      "duration": 8
+    }
+  ]
+}

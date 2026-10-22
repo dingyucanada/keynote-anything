@@ -1,0 +1,22 @@
+{
+  "name": "keynote-anything",
+  "version": "0.1.0",
+  "description": "Give anything its main-character keynote. A bilingual, local-first launch-film studio.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/server.mjs",
+    "dev": "node --watch scripts/server.mjs",
+    "test": "node --test",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=20.6"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dingyucanada/keynote-anything.git"
+  },
+  "homepage": "https://dingyucanada.github.io/keynote-anything/"
+}

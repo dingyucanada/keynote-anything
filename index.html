@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#f5f3ed" />
+    <meta
+      name="description"
+      content="让任何事物，都拥有自己的发布会。Turn an ordinary thing into an extraordinary keynote. Create, edit, present and export — no account needed."
+    />
+    <meta property="og:title" content="Keynote Anything · 万物发布会" />
+    <meta
+      property="og:description"
+      content="Give ordinary things an extraordinary entrance. A free, local-first launch studio."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="https://dingyucanada.github.io/keynote-anything/docs/studio.png"
+    />
+    <title>Keynote Anything · 万物发布会</title>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="stylesheet" href="./src/stage.css" />
+    <link rel="stylesheet" href="./src/app.css" />
+  </head>
+  <body>
+    <noscript
+      >请启用 JavaScript 使用创作工作台。Enable JavaScript to use the
+      studio.</noscript
+    ><a class="skip" href="#studio">跳到创作区 / Skip to studio</a>
+    <div id="app"></div>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <div id="modal-root"></div>
+    <input
+      id="project-file"
+      type="file"
+      accept="application/json,.json"
+      hidden
+    /><input
+      id="image-file"
+      type="file"
+      accept="image/png,image/jpeg,image/webp"
+      hidden
+    />
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
